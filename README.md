@@ -95,3 +95,7 @@ pip install -r requirements.txt
 ```
     python Exporter.py --username "barackobama" --maxtweets 10 --toptweets
 ```
+- Get tweets by query search and bound dates
+```
+    python Exporter.py --querysearch "Nike" --since 2017-08-01 --until 2017-09-01 --maxtweets 100
+```

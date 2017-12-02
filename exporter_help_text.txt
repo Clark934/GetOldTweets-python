@@ -21,3 +21,6 @@ python Exporter.py --username "barackobama" --since 2015-09-10 --until 2015-09-1
 
 # Example 4 - Get the last 10 top tweets by username
 python Exporter.py --username "barackobama" --maxtweets 10 --toptweets
+
+# Nintendo Switch
+python Exporter.py --querysearch "Nintendo" --since 2017-01-13 --until 2017-01-14
